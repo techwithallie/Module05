@@ -1,7 +1,7 @@
 var table = prompt("enter a number between 1-10: ");    //user propmt added
 var operator = 'multiplication'; // changed to multiplication
 var i = 1;                 // Set counter to 1
-var msg = '';              // Message
+var msg = '<h2>Multiplication Table</h2>';              // Message
 
 table = parseInt(table); //converting user input to integer
 
